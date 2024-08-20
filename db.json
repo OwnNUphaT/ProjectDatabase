@@ -2,7 +2,7 @@
     "countries": [
         {
             "countryName": "Thailand",
-            "Alpha3": "THA",
+            "Alpha2": "TH",
             "detail": {
                 "capital": "Bangkok",
                 "population": "71.7",
@@ -11,7 +11,7 @@
         },
         {
             "countryName": "United States",
-            "Alpha3": "USA",
+            "Alpha2": "US",
             "detail": {
                 "capital": "Washington, D.C.",
                 "population": "331.0",
@@ -20,7 +20,7 @@
         },
         {
             "countryName": "Brazil",
-            "Alpha3": "BRA",
+            "Alpha2": "BR",
             "detail": {
                 "capital": "Brasília",
                 "population": "212.6",
@@ -29,7 +29,7 @@
         },
         {
             "countryName": "Germany",
-            "Alpha3": "DEU",
+            "Alpha2": "DE",
             "detail": {
                 "capital": "Berlin",
                 "population": "83.2",
@@ -38,7 +38,7 @@
         },
         {
             "countryName": "India",
-            "Alpha3": "IND",
+            "Alpha2": "IN",
             "detail": {
                 "capital": "New Delhi",
                 "population": "1,366.4",
@@ -47,7 +47,7 @@
         },
         {
             "countryName": "China",
-            "Alpha3": "CHN",
+            "Alpha2": "CN",
             "detail": {
                 "capital": "Beijing",
                 "population": "1,398.0",
@@ -56,7 +56,7 @@
         },
         {
             "countryName": "Australia",
-            "Alpha3": "AUS",
+            "Alpha2": "AU",
             "detail": {
                 "capital": "Canberra",
                 "population": "25.4",
@@ -65,7 +65,7 @@
         },
         {
             "countryName": "Canada",
-            "Alpha3": "CAN",
+            "Alpha2": "CA",
             "detail": {
                 "capital": "Ottawa",
                 "population": "37.6",
@@ -74,7 +74,7 @@
         },
         {
             "countryName": "Russia",
-            "Alpha3": "RUS",
+            "Alpha2": "RU",
             "detail": {
                 "capital": "Moscow",
                 "population": "144.1",
@@ -83,7 +83,7 @@
         },
         {
             "countryName": "United Kingdom",
-            "Alpha3": "GBR",
+            "Alpha2": "GB",
             "detail": {
                 "capital": "London",
                 "population": "66.7",
@@ -92,7 +92,7 @@
         },
         {
             "countryName": "Japan",
-            "Alpha3": "JPN",
+            "Alpha2": "JP",
             "detail": {
                 "capital": "Tokyo",
                 "population": "126.8",
@@ -101,7 +101,7 @@
         },
         {
             "countryName": "Mexico",
-            "Alpha3": "MEX",
+            "Alpha2": "MX",
             "detail": {
                 "capital": "Mexico City",
                 "population": "127.6",
@@ -110,7 +110,7 @@
         },
         {
             "countryName": "France",
-            "Alpha3": "FRA",
+            "Alpha2": "FR",
             "detail": {
                 "capital": "Paris",
                 "population": "67.1",
@@ -119,7 +119,7 @@
         },
         {
             "countryName": "Italy",
-            "Alpha3": "ITA",
+            "Alpha2": "IT",
             "detail": {
                 "capital": "Rome",
                 "population": "60.4",
@@ -128,7 +128,7 @@
         },
         {
             "countryName": "South Africa",
-            "Alpha3": "ZAF",
+            "Alpha2": "ZA",
             "detail": {
                 "capital": "Pretoria",
                 "population": "58.6",
